@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nohox299
 - 👀 I’m interested in team working as well as developing on ongoing projects.
-- 🌱 I’m currently learning [C++]
+- 🌱 I’m currently learning [C++] and HTML!
 - 💞️ I’m looking to collaborate on the best learning platforms and teams!
 - 📫 How to reach me: email; charlymape@outlook.com
 
